@@ -1,0 +1,19 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Local environment
+.env
+.env.*
+venv/
+__pycache__/
+
+# Logs
+*.log
